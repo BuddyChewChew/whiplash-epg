@@ -24,6 +24,10 @@
     <display-name>WHIPLASH WINDOW TV</display-name>
     <icon src="https://whiplash.cc/assets/img/channels/windowtv.png" />
   </channel>
+  <channel id="whiplashbiwi">
+    <display-name>WHIPLASH BIWI</display-name>
+    <icon src="https://whiplash.cc/assets/img/channels/whiplash.png" />
+  </channel>
   <programme start="20260731060010 -0400" stop="20260731063000 -0400" channel="whiplash">
     <title lang="en">Cheers</title>
     <sub-title lang="en">Save the Last Dance for Me</sub-title>
@@ -10293,6 +10297,2300 @@ Meanwhile the town parade is being organised and of course Mainwaring wants the 
   </programme>
   <programme start="20260802140500 +0100" stop="20260802150500 +0100" channel="whiplashwindowtv">
     <title lang="en">..programmes start at 6.00am</title>
+    <previously-shown />
+  </programme>
+  <programme start="20260731064327 -0400" stop="20260731070047 -0400" channel="whiplashbiwi">
+    <title lang="en">My Melody &amp; Kuromi</title>
+    <sub-title lang="en">My Melody &amp; Kuromi</sub-title>
+    <desc lang="en">For three days, My Melody's friends struggle to stay awake, watching over her as she dreams of her Mama's words of wisdom. Will Mariland be saved in time?</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Anime</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114061/thumb/1785052577.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114061/thumb/1785052577.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114097/thumb/1765606143.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731070047 -0400" stop="20260731072414 -0400" channel="whiplashbiwi">
+    <title lang="en">Teen Titans</title>
+    <sub-title lang="en">Don't Touch That Dial</sub-title>
+    <desc lang="en">Control Freak has escaped from prison and brought the Titans into his TV world. The Titans must track him down through the diffrent channels of television while he gets more powerful with all the TV show related powers he gets.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/118505/thumb/1768704065.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <episode-num system="xmltv_ns">3.0.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731072414 -0400" stop="20260731074831 -0400" channel="whiplashbiwi">
+    <title lang="en">Tokyo Ghoul</title>
+    <sub-title lang="en">Incubation</sub-title>
+    <desc lang="en">Kaneki desperately fights the urge to eat human flesh, the only thing that can satisfy his hunger as a ghoul. He meets up with Hide again, joining him on an errand, and is glad for the companionship. But will his declining condition place Hide at risk?</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Anime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/127813/thumb/1781075740.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/127813/thumb/1781075740.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/127829/thumb/1778394024.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731074831 -0400" stop="20260731092818 -0400" channel="whiplashbiwi">
+    <title lang="en">Turning Red</title>
+    <desc lang="en">A thirteen-year-old girl named Mei Lee is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited Mei transforms into a giant red panda.</desc>
+    <date>2022</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Music</category>
+    <category lang="en">Romance</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/95466/thumb/1785052518.jpg?v=639210917992760604" />
+    <rating>
+      <value>PG</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731092818 -0400" stop="20260731095032 -0400" channel="whiplashbiwi">
+    <title lang="en">Arrested Development</title>
+    <sub-title lang="en">Sad Sack</sub-title>
+    <desc lang="en">George Sr. wants Michael to see if Lucille is really in love with Oscar. Some unfortunate pictures of Tobias wind up on the Internet. Wayne Jarvis, the family's former attorney, makes Michael an offer he can't refuse.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/113832/thumb/1765697091.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731095032 -0400" stop="20260731101425 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">Rich Shriek, Poor Shriek</sub-title>
+    <desc lang="en">Everyone finds out that Shriek is rich.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99184/thumb/1765481590.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E40</episode-num>
+    <episode-num system="xmltv_ns">1.39.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731101425 -0400" stop="20260731104340 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">The Pants Tent</sub-title>
+    <desc lang="en">In the premiere episode, Larry jokingly refers to his wife Cheryl as "Hitler", offending his manager Jeff's conservative Jewish parents. Since Jeff can't go to the movies with Larry, Cheryl sets Larry up with her friend. But a bunch-up in Larry's trousers creates many misunderstandings.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99842/thumb/1765481703.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731104340 -0400" stop="20260731110654 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Life on the Fast Lane</sub-title>
+    <desc lang="en">Homer's bowling-ball gift "for Marge" prompts her to take up the sport--and maybe also a handsome instructor who offers to teach her "many things."</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111581/thumb/1765483247.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731110654 -0400" stop="20260731114128 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">Never Wait for Seconds!</sub-title>
+    <desc lang="en">Bridget asks Larry for a favor on behalf of her son. Larry earns unexpected gratitude in a buffet line, and realizes that tips are better than favors.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99938/thumb/1765481720.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S09E08</episode-num>
+    <episode-num system="xmltv_ns">8.7.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731114128 -0400" stop="20260731120501 -0400" channel="whiplashbiwi">
+    <title lang="en">The Marvelous Misadventures of Flapjack</title>
+    <sub-title lang="en">Careful What You Fish For</sub-title>
+    <desc lang="en">When Peppermint Larry falls sick, Flapjack and K'nuckles are forced to go fishing for food.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114474/thumb/1765663818.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E01</episode-num>
+    <episode-num system="xmltv_ns">2.0.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731120501 -0400" stop="20260731123422 -0400" channel="whiplashbiwi">
+    <title lang="en">Animaniacs</title>
+    <sub-title lang="en">The Writers Flipped, They Have No Script</sub-title>
+    <desc lang="en">Maurice LaMarche leads a writer's discussion of favorite episodes.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Musical</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/97124/thumb/1784621632.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/97124/thumb/1784621632.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/97230/thumb/1781597712.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S00E02</episode-num>
+    <episode-num system="xmltv_ns">-1.1.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731123422 -0400" stop="20260731125740 -0400" channel="whiplashbiwi">
+    <title lang="en">The Marvelous Misadventures of Flapjack</title>
+    <sub-title lang="en">Bubbie's Tummy Ache</sub-title>
+    <desc lang="en">When Bubbie gets a stomach ache, Flapjack must go on a dangerous journey into her stomach to fix it.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114518/thumb/1765663821.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E17</episode-num>
+    <episode-num system="xmltv_ns">1.16.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731125740 -0400" stop="20260731132708 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">Wandering Bear</sub-title>
+    <desc lang="en">Susie gets mad at Larry when he goes to his car while watching a Girls Gone Wild video with Jeff and lets the dog out. Meanwhile, Larry gets a remedy for Cheryl's feminine problem after he mistakenly wears a stamina condom inside-out.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99883/thumb/1765481708.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <episode-num system="xmltv_ns">3.7.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731132708 -0400" stop="20260731135019 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Treehouse of Horror V</sub-title>
+    <desc lang="en">The Simpsons get hired by Mr Burns to take care of his country-side mansion for the winter where Homer starts going mad. In the second segment, Homer's toaster breaks and in trying to fix it, he inadvertently made it into a time-machine in which cause terrible consequences. In the third segment, Bart and Lisa's teachers start killing and eating the students in the school when they misbehave.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111776/thumb/1765483263.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E06</episode-num>
+    <episode-num system="xmltv_ns">5.5.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731135019 -0400" stop="20260731140215 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">Mimic Madness / House Worming</sub-title>
+    <desc lang="en">SpongeBob learns that "imitation is the sincerest form of flattery" — too bad no one told him how to stop. When worms move in to SpongeBob's pores, it's up to him to hide his disgusting new friends from everyone else.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126154/thumb/1777351983.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <episode-num system="xmltv_ns">9.2.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731140215 -0400" stop="20260731142440 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Lucky See, Monkey Do</sub-title>
+    <desc lang="en">Lucky's sister Myrna and her children attend a baby shower in which Peggy is throwing for Luanne. It doesn't take long before Myrna and Peggy clash over how the children will be raised by Luanne, with Peggy wanting the good, old fashioned skills where as Myrna likes the more modern way and by the book.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103487/thumb/1769489595.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S13E08</episode-num>
+    <episode-num system="xmltv_ns">12.7.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731142440 -0400" stop="20260731144650 -0400" channel="whiplashbiwi">
+    <title lang="en">Teen Titans</title>
+    <sub-title lang="en">Titan Rising</sub-title>
+    <desc lang="en">Terra is ready to join the team after getting the chance to practice her powers, However, other members of the team wonder if they have made a huge mistake. Raven doesn't want Terra back. Can Terra prove to the team that she can be trusted with her powers?</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/118484/thumb/1768722528.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E08</episode-num>
+    <episode-num system="xmltv_ns">1.7.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731144650 -0400" stop="20260731152253 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">The Table Read</sub-title>
+    <desc lang="en">Larry is miffed at both Marty Funkhouser's sudden presence on set during the Seinfeld reunion's table read and text messages from the nine-year-old daughter of a co-worker. Leon poses as a dead doctor to alleviate Michael Richards' concerns over his Groat's Disease diagnosis.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99917/thumb/1765481717.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S07E09</episode-num>
+    <episode-num system="xmltv_ns">6.8.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731152253 -0400" stop="20260731154518 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">The Texas Skillsaw Massacre</sub-title>
+    <desc lang="en">Hank is ordered to take an anger-management class after accidentally cutting one of Dale's fingers off. Dale claims it was retaliation for his causing Hank's kitchen floor to collapse.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103371/thumb/1769489567.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S07E07</episode-num>
+    <episode-num system="xmltv_ns">6.6.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731154518 -0400" stop="20260731155651 -0400" channel="whiplashbiwi">
+    <title lang="en">The Eric Andre Show</title>
+    <sub-title lang="en">Tichina Arnold; Steve Schirripa</sub-title>
+    <desc lang="en">Actress Tichina Arnold and actor Steve Shirripa are interviewed; Ariel Pink performs..</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Talk Show</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/110191/thumb/1765483057.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <episode-num system="xmltv_ns">3.3.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731155651 -0400" stop="20260731162042 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">Brother's Day</sub-title>
+    <desc lang="en">It is almost Brother's Day in Nearburg. Everyone is getting ready for it, except CatDog. Dog has gone out and bought a mud wrestling ting, and Cat... well he's just greedy. So when it comes down to it... Cat sells his lufa (a cats most prized possestion) to get money. Dog sells his Mud Wrestling stuff. They both bought eachother Wrestling masks, and the episode ends with the two of them attacking Winslow.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99112/thumb/1765481582.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731162042 -0400" stop="20260731164542 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">Your Shoe's Untied / Squid's Day Off</sub-title>
+    <desc lang="en">Patrick gets a new pair of shoes, but doesn't know how to tie his laces./Mr. Krabs takes the day off from the Krusty Krab and puts Squidward in charge.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/108654/thumb/1777357032.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E01</episode-num>
+    <episode-num system="xmltv_ns">1.0.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731164542 -0400" stop="20260731165748 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">Pits and Peaks</sub-title>
+    <desc lang="en">The team share their highs and lows of the day when Marquess learns that due to interest he has millions of dollars on an account in Scotland, but only his living descendant, a salt-of-the-earth fish factory worker, can claim the money.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104517/thumb/1765482393.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E05</episode-num>
+    <episode-num system="xmltv_ns">3.4.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731165748 -0400" stop="20260731172138 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">CatDog Doesn't Live Here Anymore</sub-title>
+    <desc lang="en">Winslow missed CatDog after he thinks they moved away, except they are really on vacation.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99141/thumb/1765481583.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E40</episode-num>
+    <episode-num system="xmltv_ns">0.39.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731172138 -0400" stop="20260731190647 -0400" channel="whiplashbiwi">
+    <title lang="en">Edward Scissorhands</title>
+    <desc lang="en">An unfinished creation leaves his isolated castle and enters a suburban world eager to embrace him ~ until his differences become impossible to ignore. What begins as a modern fairy tale gradually becomes a story about loneliness, beauty,</desc>
+    <date>1990</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Romance</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/92963/thumb/1784621465.jpg?v=639210917992760604" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731190647 -0400" stop="20260731191749 -0400" channel="whiplashbiwi">
+    <title lang="en">The Eric Andre Show</title>
+    <sub-title lang="en">Jimmy Kimmel; Tyler The Creator</sub-title>
+    <desc lang="en">Jimmy Kimmel and Tyler The Creator are interviewed. Also: HEALTH performs.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Talk Show</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/110184/thumb/1765483056.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731191749 -0400" stop="20260731192956 -0400" channel="whiplashbiwi">
+    <title lang="en">Invader ZIM</title>
+    <sub-title lang="en">A Room with a Moose</sub-title>
+    <desc lang="en">When Zim formulates a plan to get revenge on his skoolmates and especially Dib, he gets them all participating on a fieldtrip.  Dib, however, realizes that the driver of the bus isn’t real, but due to his constant theories, the other students disregard his warnings.  Zim decides to gloat about his magnificent plan and he informs Dib of every detail in confidence that Dib can do nothing to stop him, though Dib refuses to give up and he does everything he can to save his skoolmates and himself; despite the fact that he doesn’t know why Zim’s plans involve a room with a moose.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/102948/thumb/1784621684.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/102948/thumb/1784621684.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/102961/thumb/1765482186.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731192956 -0400" stop="20260731195303 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Bart the General</sub-title>
+    <desc lang="en">Terrorized by the school bully, Bart seeks counsel from Grandpa Simpson, who takes him to a warfare expert for basic training.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111577/thumb/1765483247.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E05</episode-num>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731195303 -0400" stop="20260731201451 -0400" channel="whiplashbiwi">
+    <title lang="en">Teen Titans</title>
+    <sub-title lang="en">Switched</sub-title>
+    <desc lang="en">Starfire and Raven don't really "get each other." Star doesn't understand Raven's repression, and Raven can't deal with Starfire's emotional outbursts. But when The Puppet King imprisons Robin, Cyborg, and Beast Boy inside wooden puppets and takes control of the boys' bodies. The girls are going to have to understand each other -- if they want to survive.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/118469/thumb/1768720894.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731201451 -0400" stop="20260731205132 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">Angel Muffin</sub-title>
+    <desc lang="en">Larry is forced to attend an ill-fated work meeting and investigates the truth behind a faulty toilet. Determined to unravel a mystery of his own, Jeff employs Larry's detective skills.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99954/thumb/1765481725.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S11E02</episode-num>
+    <episode-num system="xmltv_ns">10.1.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731205132 -0400" stop="20260731211356 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">My Big Fat Geek Wedding</sub-title>
+    <desc lang="en">After hearing that Skinner is getting cold feet about their wedding, Edna leaves Skinner at the altar and, after sending back one marriage gift, hooks up with Comic Book Guy. Meanwhile, Homer and Marge have an argument about if their marriage is still solid or not.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126280/thumb/1777352753.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S15E17</episode-num>
+    <episode-num system="xmltv_ns">14.16.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731211356 -0400" stop="20260731213724 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">Gazpacho!</sub-title>
+    <desc lang="en">A ninja-hating friend (voiced by Steven Blum) of Gazpacho's tries to help Gazpacho find his mother.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99648/thumb/1765481659.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E15</episode-num>
+    <episode-num system="xmltv_ns">2.14.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731213724 -0400" stop="20260731215937 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Care-Takin' Care of Business</sub-title>
+    <desc lang="en">Covert work by Hank and the boys turns a befuddled groundskeeper into a hero when his field is credited with hampering opponents.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103420/thumb/1769489577.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S09E09</episode-num>
+    <episode-num system="xmltv_ns">8.8.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731215937 -0400" stop="20260731222307 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Lisa's Pony</sub-title>
+    <desc lang="en">Homer loses much of Lisa's respect for him after he botches the task of getting her a saxophone reed she needs for a talent show. Homer realizes that he's been ignoring Lisa since she was a baby and thinks that's what's causing problems now, so he buys Lisa a pony to change her opinion of him.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111707/thumb/1765483258.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E08</episode-num>
+    <episode-num system="xmltv_ns">2.7.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731222307 -0400" stop="20260731224651 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">What Ever Happened to SpongeBob?</sub-title>
+    <desc lang="en">When SpongeBob tries to spend quality time with his friends, he just ends up being a nuisance to them instead. He has no other choice but to pack and move to another city. In the process, he hits his head, loses all of his memory and wanders away into a new town.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/108788/thumb/1777356916.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S05E18</episode-num>
+    <episode-num system="xmltv_ns">4.17.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731224651 -0400" stop="20260731225842 -0400" channel="whiplashbiwi">
+    <title lang="en">Invader ZIM</title>
+    <sub-title lang="en">Germs</sub-title>
+    <desc lang="en">After Zim watches an old movie where some invading aliens are defeated by some bacteria, he begins to study germs more.  However, when he discovers that such germs truthfully are everywhere, he begins a crusade to kill every germ in his headquarters so that he can be safe, which is helped by the fact that Gir had some cleaning spray handy in the house; though when the cleaning bottle runes dry, Zim must attempt to go to the store and get some more, despite the fact that he knows just how many germs are out there.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/102948/thumb/1784621684.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/102948/thumb/1784621684.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/102955/thumb/1765482186.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731225842 -0400" stop="20260731232210 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Separate Vocations</sub-title>
+    <desc lang="en">After taking a career aptitude test at school, Bart is surprised to hear that "police officer" is his ideal vocation, while Lisa is devastated to be told that she is only fit to be a homemaker. Bart becomes a hall monitor, while Lisa adopts a sulky, rebellious attitude.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111717/thumb/1765483258.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <episode-num system="xmltv_ns">2.17.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731232210 -0400" stop="20260731233319 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">Jason B. Sucks</sub-title>
+    <desc lang="en">A negative online review of the Mike Tyson Mystery Team is unacceptable to Mike Tyson.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104476/thumb/1765482390.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E06</episode-num>
+    <episode-num system="xmltv_ns">1.5.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731233319 -0400" stop="20260731235509 -0400" channel="whiplashbiwi">
+    <title lang="en">Gravity Falls</title>
+    <sub-title lang="en">Boyz Crazy</sub-title>
+    <desc lang="en">When Mabel discovers that her favorite boy band is actually a bunch of imprisoned clones, she sets them free, only to decide on keeping them for herself. Meanwhile, Dipper is convinced that Robbie plans to brainwash Wendy with a secret message hidden inside one of his songs.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/101687/thumb/1765482008.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260731235509 -0400" stop="20260801002527 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">The Ida Funkhouser Roadside Memorial</sub-title>
+    <desc lang="en">Marty Funkhouser is outraged when flowers from his mother's memorial are stolen; Larry complains about "sample abusers" in stores; Jeff and Susie find knowing Larry to be a liability when trying to get Sammy into an exclusive private school.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99900/thumb/1765481714.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E03</episode-num>
+    <episode-num system="xmltv_ns">5.2.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801002527 -0400" stop="20260801004916 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">Fistful of Mail!</sub-title>
+    <desc lang="en">Dog meets up with a paperboy faster than him. This agravates him, and he trys everyday to get faster. When he realizes that he won't ever be, the former mailmen make a disgrase of him. Then...he relizes that the mailman is a person who has been faster since childhood, and he goes faster than him.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99127/thumb/1765481582.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E26</episode-num>
+    <episode-num system="xmltv_ns">0.25.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801004916 -0400" stop="20260801010118 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">Karen 2.0 / InSPONGEiac</sub-title>
+    <desc lang="en">When Plankton upgrades to Karen 2, the original Karen leaves and gets a job at the Krusty Krab. SpongeBob cannot get enough sleep, and looks for ways to get some rest, only for them to end up in disaster.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126143/thumb/1777351977.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S08E19</episode-num>
+    <episode-num system="xmltv_ns">7.18.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801010118 -0400" stop="20260801012546 -0400" channel="whiplashbiwi">
+    <title lang="en">Tokyo Ghoul</title>
+    <sub-title lang="en">The Final Episode</sub-title>
+    <desc lang="en">Kaneki and Furuta continue their duel below the streets of Tokyo, as CCG and Goat jointly continue fighting the members of V aboveground. Kaneki comes to terms with the events of the last several years.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Anime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Romance</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Suspense</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/127813/thumb/1781075740.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/127813/thumb/1781075740.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/127864/thumb/1778354577.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E24</episode-num>
+    <episode-num system="xmltv_ns">2.23.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801012546 -0400" stop="20260801015558 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">The Anonymous Donor</sub-title>
+    <desc lang="en">It's moving day for both the Blacks and the Davids; Larry's prized Joe Pepitone jersey is lost at the dry cleaners; Larry's irked at Ted Danson's anonymous donation; Cheryl is grossed out by a semen stain on a guest-room quilt.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99899/thumb/1765481714.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <episode-num system="xmltv_ns">5.1.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801015558 -0400" stop="20260801021753 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">What Makes Bobby Run?</sub-title>
+    <desc lang="en">Bobby goes all-out to become school mascot, a high-profile post that suffers a low blow when he avoids a time-honored tradition.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/120442/thumb/1769506406.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <episode-num system="xmltv_ns">4.6.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801021753 -0400" stop="20260801045225 -0400" channel="whiplashbiwi">
+    <title lang="en">Pulp Fiction</title>
+    <desc lang="en">A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.</desc>
+    <date>1994</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/115538/thumb/1785401021.jpg?v=639210917992760604" />
+    <rating>
+      <value>R</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801045225 -0400" stop="20260801051417 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">The Perils of Polling</sub-title>
+    <desc lang="en">Bobby's act of heroism leads the Hills to a meeting with candidate George Dub-Ya, who turns Hank's vote from sure to tentative with the shake of a hand.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103323/thumb/1769506526.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S05E01</episode-num>
+    <episode-num system="xmltv_ns">4.0.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801051417 -0400" stop="20260801053734 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">Chowder Loses His Hat</sub-title>
+    <desc lang="en">When Chowder loses his hat to Chestnut, he must travel across town in order to trade the items needed to get it back.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99586/thumb/1765481655.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E31</episode-num>
+    <episode-num system="xmltv_ns">0.30.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801053734 -0400" stop="20260801055943 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Stop or My Dog Will Shoot!</sub-title>
+    <desc lang="en">Homer unwittingly drags the family into a cornfield maze after attempting to leave a boring Harvest fest that Marge brought them to. When everyone except Homer escapes, Santa's Little Helper rescues him and becomes the town hero. So the Simpsons enroll him in Police Dog Academy where he's teamed with Lou.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126351/thumb/1777352820.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S18E20</episode-num>
+    <episode-num system="xmltv_ns">17.19.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801055943 -0400" stop="20260801062244 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Brother, Can You Spare Two Dimes?</sub-title>
+    <desc lang="en">During a routine plant physical, it is discovered that exposure to radiation has sterilized Homer. Mr. Burns pays him off with an elaborate employee appreciation ceremony, and a monetary award. Homer's half-brother Herb Powell, now a hobo, reads about it in the paper, and decide's that Homer's wealth can fund his idea for an invention that would transform baby gibberish into intelligible English.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111723/thumb/1765483258.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E24</episode-num>
+    <episode-num system="xmltv_ns">2.23.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801062244 -0400" stop="20260801064601 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Homer at the Bat</sub-title>
+    <desc lang="en">Burns hires Major League ringers for the plant softball championship.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111716/thumb/1765483258.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E17</episode-num>
+    <episode-num system="xmltv_ns">2.16.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801064601 -0400" stop="20260801070923 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Bart's Inner Child</sub-title>
+    <desc lang="en">Springfield emulates Bart after he's praised by a self-help guru.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111754/thumb/1765483262.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S05E07</episode-num>
+    <episode-num system="xmltv_ns">4.6.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801070923 -0400" stop="20260801072042 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">A Dog's Life</sub-title>
+    <desc lang="en">Has a woman's late husband been reincarnated as her sweet little dog?</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104500/thumb/1765482393.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E10</episode-num>
+    <episode-num system="xmltv_ns">2.9.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801072042 -0400" stop="20260801074333 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Treehouse of Horror XII</sub-title>
+    <desc lang="en">In the twelfth Treehouse of Horror episode:
+
+Hex and the City – While on a day trip through Ethnictown, Homer's bumbling catches the ire of a gypsy, who curses Homer's family and friends into receiving nothing but bad luck.
+
+House of Whacks – in this mixed parody of Demon Seed and 2001: A Space Odyssey, Marge buys an automated house and customizes it with the Pierce Brosnan personality, who falls for Marge and attempts to murder Homer.
+
+Wiz Kids – In this Harry Potter parody, Bart and Lisa go to a school for wizards, and Lord Montemort (Mr. Burns) uses Bart to capture Lisa's magic.
+
+Guest star: Pierce Brosnan and Matthew Perry.[20]</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126218/thumb/1777352716.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S13E01</episode-num>
+    <episode-num system="xmltv_ns">12.0.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801074333 -0400" stop="20260801075516 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">Shop 'Til You Drop</sub-title>
+    <desc lang="en">The team goes to the grocery store.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104528/thumb/1765482394.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E16</episode-num>
+    <episode-num system="xmltv_ns">3.15.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801075516 -0400" stop="20260801080714 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">New Fish in Town / Love That Squid</sub-title>
+    <desc lang="en">Squidward becomes friends with his new neighbor. Squidward gets ready to go out on a date and SpongeBob assists him with a "practice date."</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/108877/thumb/1777351975.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S07E25</episode-num>
+    <episode-num system="xmltv_ns">6.24.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801080714 -0400" stop="20260801082931 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">A Bill Full of Dollars</sub-title>
+    <desc lang="en">Peggy, Minh and Dale play the stock market together, however they lose money in their initial investment. To improve their odds they decide to study the consumer habits of an "average man" and Bill becomes the subject of their study. Meanwhile, after Peggy buys the family a new flat screen TV, Hank and Bobby have difficulty figuring out all the advanced features.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103485/thumb/1769489595.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S13E06</episode-num>
+    <episode-num system="xmltv_ns">12.5.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801082931 -0400" stop="20260801085303 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">The Dinner Theater</sub-title>
+    <desc lang="en">Mung Daal's Catering Company has a mystery-themed theater show called "Who dunit? T'was not me: A romp in the glorious world of barber shop" in order to earn more money, but Chowder thinks that the play is real events and that Gazpacho will act out the play in real-life as Baron Von Bon Bon and kill the others. Chowder is then forced to go to Gorgonzola and Ceviché's help in order to stop him.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99614/thumb/1765481657.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <episode-num system="xmltv_ns">1.19.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801085303 -0400" stop="20260801091518 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">The Regina Monologues</sub-title>
+    <desc lang="en">After making over $3000 from his own museum featuring a $1000 bill, Bart takes the family to London (on the suggestion of Grampa), where Homer is arrested for treason after crashing into the Queen.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126267/thumb/1777352744.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S15E04</episode-num>
+    <episode-num system="xmltv_ns">14.3.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801091518 -0400" stop="20260801093723 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">DaleTech</sub-title>
+    <desc lang="en">Hank's father becomes part of a civilian police patrol, usurping Dale's self-proclaimed title of neighborhood protector.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103404/thumb/1769489575.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S08E16</episode-num>
+    <episode-num system="xmltv_ns">7.15.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801093723 -0400" stop="20260801095928 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">The Monkey Suit</sub-title>
+    <desc lang="en">After seeing a museum exhibit on evolution, in which creation is labeled a myth, an outraged Ned Flanders teams with Reverend Lovejoy to blackmail Principal Skinner into requiring creationism to be taught in classrooms, eventually at the expense of any mention of evolution. Lisa becomes outraged herself, and forms a student organization to teach evolution, leading to a creationism vs. evolution trial, a la Inherit the Wind.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126329/thumb/1777352805.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S17E21</episode-num>
+    <episode-num system="xmltv_ns">16.20.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801095928 -0400" stop="20260801104342 -0400" channel="whiplashbiwi">
+    <title lang="en">Gravity Falls</title>
+    <sub-title lang="en">Weirdmageddon 3: Take Back the Falls</sub-title>
+    <desc lang="en">Ford discovers Bill Cipher's true motives and then a final confrontation with Bill leads to the Pines family's ultimate fate and greatest sacrifice.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/101711/thumb/1765482010.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E20</episode-num>
+    <episode-num system="xmltv_ns">1.19.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801104342 -0400" stop="20260801110645 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Bart Sells His Soul</sub-title>
+    <desc lang="en">Bart sells his soul to Milhouse for five dollars, but soon regrets his decision. Meanwhile, Moe turns the Tavern into a family-friendly restaurant.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111800/thumb/1765483266.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S07E04</episode-num>
+    <episode-num system="xmltv_ns">6.3.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801110645 -0400" stop="20260801112845 -0400" channel="whiplashbiwi">
+    <title lang="en">Gravity Falls</title>
+    <sub-title lang="en">Boss Mabel</sub-title>
+    <desc lang="en">Mabel bets Grunkle Stan she'll make more money at the Mystery Shack by treating people nicely than he does by being rude and cranky. He heads off to win a fortune on a TV game show while she deals with lazy employees and a real monster captured by Dipper. She soon realizes why Stan is such an unbearable grouch.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/101683/thumb/1765482007.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801112845 -0400" stop="20260801115143 -0400" channel="whiplashbiwi">
+    <title lang="en">The Marvelous Misadventures of Flapjack</title>
+    <sub-title lang="en">Cuddle Trouble</sub-title>
+    <desc lang="en">Flapjack finds he may have a problem with cuddling after a night sleeping outside, so he tries to find the cause and a cure.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114511/thumb/1765663821.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E10</episode-num>
+    <episode-num system="xmltv_ns">1.9.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801115143 -0400" stop="20260801121347 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Church Hopping</sub-title>
+    <desc lang="en">When Reverend Stroup gives the Hills' pew at the Arlen First Methodist Church to another family, Hank and his family decide to find another church. A slick pastor tries to bribe the Hills into worshipping at his Megachurch.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103438/thumb/1769489583.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S10E11</episode-num>
+    <episode-num system="xmltv_ns">9.10.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801121347 -0400" stop="20260801143039 -0400" channel="whiplashbiwi">
+    <title lang="en">A Clockwork Orange</title>
+    <desc lang="en">Alex DeLarge is an "ultraviolent" youth in futuristic Britain. As with all luck, his eventually runs out and he's arrested and convicted of murder. While in prison, Alex learns of an experimental program in which convicts are programmed to detest violence. If he goes through the program, his sentence will be reduced and he will be back on the streets sooner than expected. But Alex's ordeals are far from over once he hits the streets of Britain.</desc>
+    <date>1971</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114278/thumb/1785315703.jpg?v=639210917992760604" />
+    <rating>
+      <value>NC-17</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801143039 -0400" stop="20260801150004 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">Vow of Silence</sub-title>
+    <desc lang="en">Larry's evolving alibi to get out of a charity function results in unexpected travel plans. Meanwhile, Susie makes demands for the terminally ill family dog's last meal; and Larry points out personal flaws in the buffet line and in parking lots.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99924/thumb/1765481718.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S08E05</episode-num>
+    <episode-num system="xmltv_ns">7.4.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801150004 -0400" stop="20260801154537 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">You're Not Going to Get Me to Say Anything Bad About Mickey</sub-title>
+    <desc lang="en">Travel plans go awry when Larry brings an impromptu date, Donna, to a Destination Wedding; other guests include Cheryl with Ted Danson, and Jeff and Susie (who offers to lend Donna a dress). At the hotel, Larry gets himself into a sticky situation when he goes searching for a toothbrush. He also hunts for the beans that the hotel uses to concoct its incredible coffee. Can't he even have fun at a carnival?</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99945/thumb/1765481722.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S10E04</episode-num>
+    <episode-num system="xmltv_ns">9.3.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801154537 -0400" stop="20260801160910 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">Apprentice Games</sub-title>
+    <desc lang="en">Chowder and Gorgonzola are forced team-up for the Marzipan City Apprentice Games, but are kicked out of the competition by their masters after they lose several events. The duo must now get back into the games in order to reclaim their dignity.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99593/thumb/1765481656.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801160910 -0400" stop="20260801163037 -0400" channel="whiplashbiwi">
+    <title lang="en">Animaniacs</title>
+    <sub-title lang="en">Battle for the Planet</sub-title>
+    <desc lang="en">Brain wants to take over the world by tricking people into thinking that aliens are invading Earth and having them flee the cities in a panic.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Musical</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/97124/thumb/1784621632.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/97124/thumb/1784621632.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/97158/thumb/1781597710.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <episode-num system="xmltv_ns">0.32.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801163037 -0400" stop="20260801165407 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">The Garden</sub-title>
+    <desc lang="en">After Truffles makes the plants grow with her voice, Chowder becomes her apprentice. But that leaves Mung heartbroken and now he'll do anything to win Chowder back.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99625/thumb/1765481657.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E31</episode-num>
+    <episode-num system="xmltv_ns">1.30.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801165407 -0400" stop="20260801171744 -0400" channel="whiplashbiwi">
+    <title lang="en">Trailer Park Boys</title>
+    <sub-title lang="en">If You Love Something, Set It Free</sub-title>
+    <desc lang="en">Bubbles befriends a dope-addicted mountain lion that has been eating weed from the Boys' marijuana fields..</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113914/thumb/1785052576.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113914/thumb/1785052576.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114046/thumb/1765604306.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E06</episode-num>
+    <episode-num system="xmltv_ns">3.5.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801171744 -0400" stop="20260801173035 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">Sandy's Nutty Nieces / Insecurity Guards</sub-title>
+    <desc lang="en">Things take a turn for the worse after SpongeBob volunteers to babysit Sandy's three little nieces. SpongeBob and Patrick volunteer as security guards at the museum, while Squidward attempts to hang his painting unnoticed.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126115/thumb/1777351988.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S12E08</episode-num>
+    <episode-num system="xmltv_ns">11.7.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801173035 -0400" stop="20260801180246 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">The Colostomy Bag</sub-title>
+    <desc lang="en">When Richard enlists Larry's help to buy a vintage car, his careless behavior leads to an unwanted outcome. Jeff secretly schemes to give Larry power of attorney.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99971/thumb/1765481726.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S12E08</episode-num>
+    <episode-num system="xmltv_ns">11.7.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801180246 -0400" stop="20260801182613 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Lisa's Rival</sub-title>
+    <desc lang="en">Lisa feels threatened when a new girl moves to Springfield: Allison is smart, pretty, a great saxophone player and a crack diorama builder. Lisa tries to befriend her new rival, but she's consumed with envy and competitiveness.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111772/thumb/1765483263.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E02</episode-num>
+    <episode-num system="xmltv_ns">5.1.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801182613 -0400" stop="20260801190225 -0400" channel="whiplashbiwi">
+    <title lang="en">Arrested Development</title>
+    <sub-title lang="en">A New Attitude</sub-title>
+    <desc lang="en">Gob accepts a job from his brother, but is distracted by a scheme of his own.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/113799/thumb/1765589343.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <episode-num system="xmltv_ns">3.10.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801190225 -0400" stop="20260801192442 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Cops and Robert</sub-title>
+    <desc lang="en">Bobby has to work as a deputy for the school's police officer after he is framed for throwing a soda can.  Meanwhile, Hank accidentally takes the wallet of a man he thought stole his own wallet, however when he tries to return the wallet the man does not take it too well.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103476/thumb/1769489593.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S12E20</episode-num>
+    <episode-num system="xmltv_ns">11.19.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801192442 -0400" stop="20260801194844 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99230/thumb/1765481594.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <episode-num system="xmltv_ns">3.2.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801194844 -0400" stop="20260801201532 -0400" channel="whiplashbiwi">
+    <title lang="en">Trailer Park Boys</title>
+    <sub-title lang="en">Thugged Out Gangsta Sh*t</sub-title>
+    <desc lang="en">Tom sets out on an adventure with Lucy, while Snoop tries Ricky's new concoction and Lahey plots a diabolical mission.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113914/thumb/1785052576.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113914/thumb/1785052576.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/113945/thumb/1765602612.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S10E09</episode-num>
+    <episode-num system="xmltv_ns">9.8.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801201532 -0400" stop="20260801203752 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">New Kid on the Block</sub-title>
+    <desc lang="en">Bart has a crush on his new neighbor, a teenage girl who only has eyes for Jimbo Jones. Bart sets out to prove that Jimbo is not as tough as he seems.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111732/thumb/1765483260.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E08</episode-num>
+    <episode-num system="xmltv_ns">3.7.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801203752 -0400" stop="20260801210105 -0400" channel="whiplashbiwi">
+    <title lang="en">Teen Titans</title>
+    <sub-title lang="en">Mother Mae-Eye</sub-title>
+    <desc lang="en">The strange Mother Mae-Eye has taken the Titans on as her children and turned the tower into a massive gingerbread house. But even below her initial weirdness, she just keeps getting weirder.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/118461/thumb/1785052596.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/118514/thumb/1768720896.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <episode-num system="xmltv_ns">3.9.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801210105 -0400" stop="20260801212312 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Treehouse of Horror XIV</sub-title>
+    <desc lang="en">"Reaper Madness" - Death becomes Homer and our hero must learn to reap what he sows (and pull a fast one on the almighty). "Frinkenstein" - Soon to be Nobel-prize winning Professor Frink reanimates his father for some gruesome body parts-swapping. "Stop the World, I Want to Goof Off" - A parody of Clockstoppers, starring Bart and Milhouse.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126264/thumb/1777352744.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S15E01</episode-num>
+    <episode-num system="xmltv_ns">14.0.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801212312 -0400" stop="20260801214529 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Bill's House</sub-title>
+    <desc lang="en">After Bill nurses Hank, Peggy and Bobby through the flu, he starts to feel lonely when there is no one else to take care of.  Hank gets Bill to volunteer at a halfway house for alcoholics, and Bill invites the residents to stay with him. As more and more houseguests show up, Hank becomes determined to find them a permanent residence. Meanwhile, Peggy makes a promise to God that if she gets over the flu, she'll learn to ride a bike, and Bobby makes her keep her promise.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103430/thumb/1769489580.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S10E03</episode-num>
+    <episode-num system="xmltv_ns">9.2.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801214529 -0400" stop="20260801221724 -0400" channel="whiplashbiwi">
+    <title lang="en">Arrested Development</title>
+    <sub-title lang="en">The B. Team</sub-title>
+    <desc lang="en">Michael is presented with a new business opportunity that could change his life, but unfortunately, he needs his family to sign off.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/113792/thumb/1765589343.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <episode-num system="xmltv_ns">3.3.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801221724 -0400" stop="20260801224838 -0400" channel="whiplashbiwi">
+    <title lang="en">Arrested Development</title>
+    <sub-title lang="en">Courting Disasters</sub-title>
+    <desc lang="en">George and Lucille overestimate their new lawyer's expertise in the courtroom. Two familiar faces testify, and a video sheds more light on the case.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113773/thumb/1785052573.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/116111/thumb/1766189161.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S05E15</episode-num>
+    <episode-num system="xmltv_ns">4.14.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801224838 -0400" stop="20260801231054 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Barting Over</sub-title>
+    <desc lang="en">Bart learns that he was once a child actor in commercials and that all the money earned was spent by Homer. In retaliation, Bart petitions the court to have himself legally emancipated from his parents and moves out of the Simpson house. Bart is initially miserable in his new apartment, but discovers that skateboarder Tony Hawk lives on one of the floors above. He and Hawk become friends, and Bart is content with his new life. Homer apologizes to Bart and requests that he return home. Bart accepts the apology, but tells his family that he is going on tour with Hawk. At an event, Homer speaks to Bart and finally promises Bart that he will never treat him badly again.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126251/thumb/1777352724.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S14E11</episode-num>
+    <episode-num system="xmltv_ns">13.10.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260801231054 -0400" stop="20260802004325 -0400" channel="whiplashbiwi">
+    <title lang="en">Impractical Jokers: The Movie</title>
+    <desc lang="en">The story of a humiliating high school mishap from 1992 that sends the Impractical Jokers on the road competing in hidden-camera challenges for the chance to turn back the clock and redeem three of the four Jokers.</desc>
+    <date>2020</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/93594/thumb/1784621567.jpg?v=639210917992760604" />
+    <rating>
+      <value>PG-13</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802004325 -0400" stop="20260802010653 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">The Heist</sub-title>
+    <desc lang="en">The gang finds a stash of rock candy called sugar sapphires under Endive's house and try to raid the loot before she discovers.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99642/thumb/1765481659.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E09</episode-num>
+    <episode-num system="xmltv_ns">2.8.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802010653 -0400" stop="20260802013007 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">Homer's Triple Bypass</sub-title>
+    <desc lang="en">Homer sees a discount doctor for a coronary bypass.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/111735/thumb/1765483260.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E11</episode-num>
+    <episode-num system="xmltv_ns">3.10.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802013007 -0400" stop="20260802014220 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">Shuffleboarding / Professor Squidward</sub-title>
+    <desc lang="en">Mermaid Man and Barnacle Boy are injured, so SpongeBob and Patrick take their places in a shuffle boarding match.
+
+Squidward begins teaching a music class, and SpongeBob and Patrick are two of his students. He later lands in prison for impersonating Squilliam.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/108829/thumb/1777351971.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E17</episode-num>
+    <episode-num system="xmltv_ns">5.16.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802014220 -0400" stop="20260802020555 -0400" channel="whiplashbiwi">
+    <title lang="en">Gravity Falls</title>
+    <sub-title lang="en">Dreamscaperers (1)</sub-title>
+    <desc lang="en">Dipper, Mabel, and Soos must travel through Grunkle Stan's mind to defeat a tricky dream demon summoned by Lil Gideon.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/101689/thumb/1765482008.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E19</episode-num>
+    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802020555 -0400" stop="20260802023015 -0400" channel="whiplashbiwi">
+    <title lang="en">Gravity Falls</title>
+    <sub-title lang="en">Gideon Rises (2)</sub-title>
+    <desc lang="en">Li'l Gideon swindles the Mystery Shack away, forcing Grunkle Stan and the kids to move in with Soos. While Stan weighs how he can still care for his grandniece and nephew, they decide to take on Gideon.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/101690/thumb/1765482008.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E20</episode-num>
+    <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802023015 -0400" stop="20260802025231 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">Earthy Girls Are Easy</sub-title>
+    <desc lang="en">When a local paper plans to run a story about Strickland Propane dumping old propane tanks into the river, Hank suggests that the company go green. Dale, in an attempt to impress the ladies, organizes an Earth benefit concert.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103481/thumb/1769489595.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S13E02</episode-num>
+    <episode-num system="xmltv_ns">12.1.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802025231 -0400" stop="20260802030422 -0400" channel="whiplashbiwi">
+    <title lang="en">Invader ZIM</title>
+    <sub-title lang="en">The Sad, Sad Tale of Chickenfoot</sub-title>
+    <desc lang="en">When Professor Membrane invites some of his colleagues over to the house, they insult and mock Dib because of his hobby of paranormal investigation.  Matters become even worse for Dib when Mysterious Mysteries begins to show a segment on Chickenfoot, a being that is obviously a guy in a suit.  Dib decides to go on a crusade to prove Chickenfoot is a fraud in order to establish the fact that paranormal investigation also disproves the frauds along with proving the real mysteries, though will Dib be able to find the elusive Chickenfoot and even if he does, how will he manage to get the suit off of him?</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Action</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/102948/thumb/1784621684.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/102948/thumb/1784621684.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/102978/thumb/1765482187.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E29</episode-num>
+    <episode-num system="xmltv_ns">0.28.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802030422 -0400" stop="20260802031555 -0400" channel="whiplashbiwi">
+    <title lang="en">The Eric Andre Show</title>
+    <sub-title lang="en">Jack Black; Jennette McCurdy</sub-title>
+    <desc lang="en">Actor Jack Black and actress Jennette McCurdy are interviewed.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Talk Show</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/110197/thumb/1765483058.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S04E10</episode-num>
+    <episode-num system="xmltv_ns">3.9.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802031555 -0400" stop="20260802032808 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">You Don't Know Sponge / Tunnel of Glove</sub-title>
+    <desc lang="en">SpongeBob and Patrick take a quiz on each other, which threatens their friendship. Pearl and SpongeBob become stuck inside the Tunnel of Glove.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/108875/thumb/1777351974.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S07E23</episode-num>
+    <episode-num system="xmltv_ns">6.22.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802032808 -0400" stop="20260802040217 -0400" channel="whiplashbiwi">
+    <title lang="en">Curb Your Enthusiasm</title>
+    <sub-title lang="en">Thank You for Your Service</sub-title>
+    <desc lang="en">Larry commits a faux pas with Sammi’s fiancé, and tries to start over with his mail carrier and golf club security guard.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99840/thumb/1784621659.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99935/thumb/1765481720.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S09E05</episode-num>
+    <episode-num system="xmltv_ns">8.4.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802040217 -0400" stop="20260802042357 -0400" channel="whiplashbiwi">
+    <title lang="en">Home Movies</title>
+    <sub-title lang="en">Class Trip</sub-title>
+    <desc lang="en">A class trip to a hotel provides a great opportunity for some 'on location' footage. It sounds like a great plan until Paula is asked to chaperone the trip with Mr. Lynch. Coach McGuirk has to get a second job to pay for damages resulting from a fight with the office coffeemaker.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101988/thumb/1784621677.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101988/thumb/1784621677.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/102012/thumb/1765482051.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E09</episode-num>
+    <episode-num system="xmltv_ns">1.8.0/1</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802042357 -0400" stop="20260802044519 -0400" channel="whiplashbiwi">
+    <title lang="en">The Simpsons</title>
+    <sub-title lang="en">The Fat and the Furriest</sub-title>
+    <desc lang="en">Homer is attacked at the dump by a grizzly bear. He is mocked for his fear of the bear and develops a phobia of bears in general,even cuddly toy ones. Grampa persuades him that the only cure is to confront the bear - which Homer does,discovering that the bear is angry because of an electric prod in his ear. When Homer removes it the two become friends and Homer helps the bear escape to an animal sanctuary.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/111571/thumb/1784970153.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/126268/thumb/1777352744.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S15E05</episode-num>
+    <episode-num system="xmltv_ns">14.4.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802044519 -0400" stop="20260802045600 -0400" channel="whiplashbiwi">
+    <title lang="en">The Eric Andre Show</title>
+    <sub-title lang="en">Wiz Khalifa; Aubrey Peeples</sub-title>
+    <desc lang="en">Wiz Khalifa and Aubrey Peeples are interviewed.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Talk Show</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/110153/thumb/1784970133.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/110182/thumb/1765483056.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <episode-num system="xmltv_ns">2.5.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802045600 -0400" stop="20260802051856 -0400" channel="whiplashbiwi">
+    <title lang="en">The Marvelous Misadventures of Flapjack</title>
+    <sub-title lang="en">Please Retire</sub-title>
+    <desc lang="en">K'nuckles and Flapjack visit a storytelling club, where K'nuckles finds out that his own stories may be outdated.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114520/thumb/1765663822.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E19</episode-num>
+    <episode-num system="xmltv_ns">1.18.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802051856 -0400" stop="20260802053040 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">Love Letters</sub-title>
+    <desc lang="en">The team attends yard sales.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104493/thumb/1765482392.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E03</episode-num>
+    <episode-num system="xmltv_ns">2.2.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802053040 -0400" stop="20260802054435 -0400" channel="whiplashbiwi">
+    <title lang="en">My Melody &amp; Kuromi</title>
+    <sub-title lang="en">Fluffy and Soft</sub-title>
+    <desc lang="en">Up in the clouds, My Melody has an ominous encounter with a giant, fluffy bear. Back in Mariland, Flat encourages her to join the upcoming sweets contest.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Anime</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114061/thumb/1785052577.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114061/thumb/1785052577.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114081/thumb/1765609620.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802054435 -0400" stop="20260802060704 -0400" channel="whiplashbiwi">
+    <title lang="en">King of the Hill</title>
+    <sub-title lang="en">The Witches of East Arlen</sub-title>
+    <desc lang="en">Reading tarot cards introduces Bobby to a coven of compatriots who want to train him to become a wizard.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/103233/thumb/1784621687.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/103387/thumb/1717463166.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S07E23</episode-num>
+    <episode-num system="xmltv_ns">6.22.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802060704 -0400" stop="20260802063107 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">Dog Power</sub-title>
+    <desc lang="en">Cat is late paying the electric bill, so he tries other ways to save electricity.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99172/thumb/1765481590.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E29</episode-num>
+    <episode-num system="xmltv_ns">1.28.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802063107 -0400" stop="20260802065433 -0400" channel="whiplashbiwi">
+    <title lang="en">The Marvelous Misadventures of Flapjack</title>
+    <sub-title lang="en">Kid Nickels</sub-title>
+    <desc lang="en">K'nuckles bets Flapjack in a poker game, resulting in the two having a falling-out. K'nuckles replaces Flapjack with a young boy named Kid Nickels, while Flapjack becomes a banker's apprentice. K'nuckles ends up missing Flapjack and challenges the banker to win him back.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/114472/thumb/1785052579.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114483/thumb/1765663820.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E03</episode-num>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802065433 -0400" stop="20260802071816 -0400" channel="whiplashbiwi">
+    <title lang="en">CatDog</title>
+    <sub-title lang="en">Episode 25</sub-title>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99099/thumb/1784621652.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99213/thumb/1765481594.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E25</episode-num>
+    <episode-num system="xmltv_ns">2.24.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802071816 -0400" stop="20260802084456 -0400" channel="whiplashbiwi">
+    <title lang="en">My Neighbor Totoro</title>
+    <desc lang="en">Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.</desc>
+    <date>1988</date>
+    <category lang="en">Movie</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Anime</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/94032/thumb/1784969901.jpg?v=639210917992760604" />
+    <rating>
+      <value>G</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802084456 -0400" stop="20260802085630 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">Broken Wings</sub-title>
+    <desc lang="en">Take these broken wings, Pigeon, and learn to fly.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104497/thumb/1765482393.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E07</episode-num>
+    <episode-num system="xmltv_ns">2.6.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802085630 -0400" stop="20260802091924 -0400" channel="whiplashbiwi">
+    <title lang="en">Trailer Park Boys</title>
+    <sub-title lang="en">Halloween 1977</sub-title>
+    <desc lang="en">Everyone in the park becomes uneasy about Randy. Randy stays true to his eviction policy - he now evicts J-Roc. Lahey finds illuminating evidence from old footage of the day he lost his badge - he seeks for reinstatement.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113914/thumb/1785052576.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/113914/thumb/1785052576.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/114056/thumb/1765604435.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E05</episode-num>
+    <episode-num system="xmltv_ns">5.4.0/1</episode-num>
+    <rating>
+      <value>TV-MA</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802091924 -0400" stop="20260802093127 -0400" channel="whiplashbiwi">
+    <title lang="en">SpongeBob SquarePants</title>
+    <sub-title lang="en">Grandpappy the Pirate / Cephalopod Lodge</sub-title>
+    <desc lang="en">Mr. Krabs lies to his grandfather that he is a pirate. When his grandfather comes over to visit, Mr. Krabs renovates the Krusty Krab into a pirate ship and has his employees (and Patrick) act as sailors.
+
+SpongeBob and Patrick get Squidward expelled from the Cephalopod Lodge, and try to get him readmitted.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/108584/thumb/1785401234.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/108827/thumb/1777351970.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S06E15</episode-num>
+    <episode-num system="xmltv_ns">5.14.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802093127 -0400" stop="20260802095336 -0400" channel="whiplashbiwi">
+    <title lang="en">Gravity Falls</title>
+    <sub-title lang="en">Soos and the Real Girl</sub-title>
+    <desc lang="en">Soos needs a date for his cousin Reggie's engagement party and looks to a dating simulator game to help him talk to girls.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Sci-Fi &amp; Fantasy</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101669/thumb/1784621674.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/101696/thumb/1765482009.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E05</episode-num>
+    <episode-num system="xmltv_ns">1.4.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802095336 -0400" stop="20260802101630 -0400" channel="whiplashbiwi">
+    <title lang="en">Home Movies</title>
+    <sub-title lang="en">Hiatus</sub-title>
+    <desc lang="en">Believing they are in a creative rut, the kids agree to take a hiatus. Brendon reluctantly agrees to film Duane's band rehearsal and meets Cynthia, an older choreographer. Coach McGuirk and Mr. Lynch plan a trip to Cancun, while Paula is the victim of budget cuts at her school.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101988/thumb/1784621677.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/101988/thumb/1784621677.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/102006/thumb/1765482051.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <episode-num system="xmltv_ns">1.2.0/1</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802101630 -0400" stop="20260802104006 -0400" channel="whiplashbiwi">
+    <title lang="en">Chowder</title>
+    <sub-title lang="en">Shnitzel Quits</sub-title>
+    <desc lang="en">When Shnitzel feels that he is not getting enough respect from Mung Daal and Truffles, he quits the catering company and decides to work for their rival, Ms. Endive. But he soon discovers that she in actually in love with him, and sees him as more than hired help.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Children</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Family</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Short</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/99554/thumb/1784621655.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/99588/thumb/1765481655.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S01E33</episode-num>
+    <episode-num system="xmltv_ns">0.32.0/1</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+    <previously-shown />
+  </programme>
+  <programme start="20260802104006 -0400" stop="20260802105058 -0400" channel="whiplashbiwi">
+    <title lang="en">Mike Tyson Mysteries</title>
+    <sub-title lang="en">The Beginning</sub-title>
+    <desc lang="en">Mike recalls the team’s first mystery.</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Adventure</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Horror</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604" />
+    <image type="poster" size="3">http://192.168.254.188:8409/iptv/artwork/posters/plex/2/library/metadata/104458/thumb/1784970072.jpg?v=639210917992760604"</image>
+    <image type="still" orient="L" size="3">http://192.168.254.188:8409/iptv/artwork/thumbnails/plex/2/library/metadata/104492/thumb/1765482392.jpg?v=639210917992760604</image>
+    <episode-num system="onscreen">S03E02</episode-num>
+    <episode-num system="xmltv_ns">2.1.0/1</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
     <previously-shown />
   </programme>
 </tv>
