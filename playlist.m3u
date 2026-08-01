@@ -10,3 +10,5 @@ https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
 #EXTINF:-1 group-title="whiplash" tvg-id="whiplashwindowtv" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png",WHIPLASH WINDOW TV
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+#EXTINF:-1 group-title="whiplash" tvg-id="whiplashbiwi" tvg-logo="https://whiplash.cc/assets/img/channels/whiplash.png",WHIPLASH BIWI
+https://cdn.whiplash.cc/whiplash-biwi/index.m3u8
